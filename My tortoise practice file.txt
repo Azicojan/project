@@ -20,3 +20,5 @@ the changes happening due to your focus.
 I've made a progress
 This is my first commit.
 How have you been so far?
+
+Today is the 12th of October. I'm studying git and git commands. 
